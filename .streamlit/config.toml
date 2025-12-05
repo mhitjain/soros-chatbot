@@ -2,7 +2,7 @@
 
 # Python version
 [python]
-version = "3.12"
+version = "3.11"
 
 # Server settings
 [server]
